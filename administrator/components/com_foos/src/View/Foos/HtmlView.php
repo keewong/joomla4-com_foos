@@ -1,4 +1,3 @@
-// https://raw.githubusercontent.com/astridx/boilerplate/t1/src/administrator/components/com_foos/src/View/Foos/HtmlView.php
 <?php
 /**
  * @package     Joomla.Administrator
